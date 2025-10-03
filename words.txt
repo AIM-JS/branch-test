@@ -1,0 +1,6 @@
+cat
+lab
+exam
+university
+home
+new

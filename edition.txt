@@ -2,5 +2,4 @@ First Edition
 Second Edition
 Third Edition
 Issue resolved
-hotfix my solution
-
+Hotfix team's solution

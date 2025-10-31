@@ -3,3 +3,5 @@ Second Edition
 Third Edition
 Issue resolved
 Hotfix team's solution
+New function added
+
